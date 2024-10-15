@@ -60,12 +60,20 @@ Technologies Used
 
 
 i) Python
+
 ii) Keras
-iii) TensorFlow 2
+
+iii) TensorFlow 
+
 iv) OpenCV
+
 v) Tesseract
+
 vi) Deep Learning Techniques (CNNs, RNNs, LSTM, GRU)
+
 vii) Search Algorithms (DFS, BFS, A)*
+
 viii) Game Algorithms (Minimax)
+
 ix) Knowledge-Based Systems (Forward and Backward Chaining)
 
