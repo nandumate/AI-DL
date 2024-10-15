@@ -59,13 +59,13 @@ Implement object detection using YOLO (You Only Look Once) and pretrained deep l
 Technologies Used
 
 
-Python
-Keras
-TensorFlow 2
-OpenCV
-Tesseract
-Deep Learning Techniques (CNNs, RNNs, LSTM, GRU)
-Search Algorithms (DFS, BFS, A)*
-Game Algorithms (Minimax)
-Knowledge-Based Systems (Forward and Backward Chaining)
+i) Python
+ii) Keras
+iii) TensorFlow 2
+iv) OpenCV
+v) Tesseract
+vi) Deep Learning Techniques (CNNs, RNNs, LSTM, GRU)
+vii) Search Algorithms (DFS, BFS, A)*
+viii) Game Algorithms (Minimax)
+ix) Knowledge-Based Systems (Forward and Backward Chaining)
 
